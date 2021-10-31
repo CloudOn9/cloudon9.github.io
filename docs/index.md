@@ -1,11 +1,3 @@
-## Awesomemoder316's page
-
-
-![Awesomemoder316's favourite languages](https://github-readme-stats.vercel.app/api/top-langs/?username=awesomemoder316&theme=radical)
-
-![Awesomemoder316's GitHub stats](https://github-readme-stats.vercel.app/api?username=awesomemoder316&show_icons=true&theme=radical)
-
-
 #### About me:
 
 Hello world! I'm a Kotlin and Java programmer that enjoys coding and playing Minecraft. Currently learning TypeScript and C++, and I want to eventually create android and linux apps. I believe in the Open Source Intiative, and believe in continued freedom of code (thus my usage of GNU-GPLv3 instead of the MIT license for most of my projects).
