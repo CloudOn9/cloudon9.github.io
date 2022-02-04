@@ -1,8 +1,9 @@
-## CloudOn9's page
+## Cloudate9's page
 
 #### About me:
 
-Hello world! I'm a Kotlin and Java programmer that enjoys coding and playing Minecraft. Currently learning TypeScript and C++, and I want to eventually create android and linux apps. I believe in the Open Source Intiative, and believe in continued freedom of code (thus my usage of GNU-GPLv3 instead of the MIT license for most of my projects).
+Hello world! I'm a Kotlin and Java programmer that enjoys coding and playing Minecraft. I'll be fluent in more languages, eventually. 
+I should really get this done in js/ts instead of GH pages.
 
 
 #### Links
