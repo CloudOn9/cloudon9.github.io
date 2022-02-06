@@ -1,4 +1,4 @@
-## Cloudate9's page
+## Cloudite9's page
 
 #### About me:
 
