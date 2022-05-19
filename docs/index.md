@@ -10,6 +10,6 @@ I should really get this done in js/ts instead of GH pages.
 
 New here? Check out some of my other stuff!
 
-My [Curseforge page](https://www.curseforge.com/members/cloudonnine/projects)  
-My [Discord server](https://www.discord.gg/nPbakm9eEr)  
-A [Discord Backdoor Bot for admins](https://www.github.com/cloudate9/discordbackdoorbot)
+My [Curseforge Page](https://www.curseforge.com/members/cloudonnine/projects)  
+My [Discord Server](https://www.discord.gg/nPbakm9eEr)  
+A [Universal Minecraft Mod Index](https://www.github.com/reviversmc/the-mod-index)?
