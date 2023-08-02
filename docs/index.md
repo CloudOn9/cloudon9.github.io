@@ -8,7 +8,7 @@ Hello world! I'm a programmer with experience in all sorts of fields and niches 
 #### Links
 Some of my public works
 
-[Ecoyote by Kuaso](https://github.com/kuaso/Ecoyote)
-[Retired Shop Concept for Evergreen Collective](https://willowy-pothos-ee87e0.netlify.app/)
+[Ecoyote by Kuaso](https://github.com/kuaso/Ecoyote)  
+[Retired Shop Concept for Evergreen Collective](https://willowy-pothos-ee87e0.netlify.app/)  
 [My Curseforge Page](https://www.curseforge.com/members/cloudate9/projects)  
 [The Tooling for the Dream of a Universal Minecraft Mod Index](https://github.com/reviversmc/the-mod-index-creator/tree/next/1.0.0)
